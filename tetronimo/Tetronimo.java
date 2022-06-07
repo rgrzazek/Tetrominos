@@ -319,11 +319,4 @@ public class Tetronimo extends javax.swing.JPanel {
             // extra pieces may be added,
     };
 
-    /*
-     * Standard tetris pieces
-     * 
-     * OO T ZZ IIII J SS L
-     * OO TTT ZZ J SS L
-     * JJ LL
-     */
 }
